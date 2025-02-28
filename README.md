@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WifiRouter</h1>
 <h3 align="center">deranged transfem developer from California</h3><br>
 
-- 🐦 I’m currently working on [Tori Client](https://toriclient.com)
+- 🐦 I’m currently working on [Nothing! Looking for ideas!]
 
 - ⚡ Fun fact! **meow :3**
 
